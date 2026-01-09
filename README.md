@@ -14,7 +14,7 @@ Will Work in Windows 7+ (All OS after Windows 7)
 
 ### Steps to install Latest Drivers :
 
-1. Download the .bat file from the releases page (If warning shown skip warning)
+1. Download the [.bat](https://github.com/mkr-infinity/ADB-Fastboot_Drivers/releases/download/Universal_Installer/ADB+Fastboot_Driver_Always_Latest.bat) file or check the [releases page](https://github.com/mkr-infinity/ADB-Fastboot_Drivers/releases/tag/Universal_Installer) (If warning shown skip warning)
 2. Connect the phone in USB Debugging mode with MTP or File Transfer Option Selected in phone, for Proper USB Drivers Installation [optional step,but recommended]
 3. Launch the .bat file by double clicking on it. (Installation will proceed in a terminal)
 4. Press OK in confirmation dialog shown in phone during Installation.[only required, if step 2 is done]
